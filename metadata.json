@@ -1,0 +1,7 @@
+{
+  "name": "Game Ular Arcade Modern",
+  "description": "Game ular klasik dan modern dengan berbagai mode permainan, power-up spesial, kustomisasi skin, efek suara retro sintetis, dan kontrol responsif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
